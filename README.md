@@ -11,3 +11,10 @@ This repository was created for Graduate Admissions. It contains my CV, personal
 * Large-scale k-means clustering via variance reduction.pdf: I am a co-author of this paper. It proposed a new method to accelerate k-means by using variance reduction technique denoted as VRKM. The variant of VRKM named VRKM++ does not have to compute the batch gradient, and is more efficient. It has been submitted to Neurocomputing in Nov. 2017.
 * Multiple kernel k-means clustering with late fusion.pdf: I am the main contributor of this paper. In this paper, an effective method is proposed for multiple kernel k-means which integrates the clustering results from multiple views into an optimal one.
 * Co-reading_Activity_Program.pdf: We have launched a co-reading program which is aimed at distant children who love reading, but cannot afford buying books. It provides a platform for warmhearted volunteers in the society to help them read books, to answer questions and doubts, grow together with them and change their fate through reading.
+
+
+###  **If you have questions about the existing files or need more information, please do not hesitate to contact me via email.**
+
+> zhaojiayi11@nudt.edu.cn
+
+> 18663894102@126.com
