@@ -6,9 +6,9 @@
 
 ## Introduction and Education Background
 
-As an applicant to the doctoral program in Computer Science. I am very glad to have an opportunity of introducing my research interests and experiences to you.
+As an applicant to the doctoral program in Computer Science, I am very glad to have an opportunity of introducing my research interests and experiences to you.
 
-At present, I am a joint civilian postgraduate student in Department of Computer Science, National University of Defense Technology & Naval Aeronautical University. I have taken some machine learning related courses during the past year in NUDT. Prior to NUDT,  throughout four years' undergraduate life, I have completed some fundamental courses related to mathematics, physics, programming and information theory.
+At present, I am a joint civilian PhD candidate in Department of Computer Science, National University of Defense Technology & Naval Aeronautical University. I have taken some machine learning related courses during the past year in NUDT. Prior to NUDT,  throughout four years' undergraduate life, I have completed some fundamental courses related to mathematics, physics, programming and information theory.
 
 ## Research Interests and Specific Goals
 
@@ -28,7 +28,9 @@ Recently, I mainly focus on large-scale machine learning. In terms of large-scal
 
 After the literature survey, I found that Nyström method and random Fourier features are most popular, which were proposed to overcome the computational challange and scale the kernel method to large-scale datasets. Also, I reimplemented the ideas in the papers that I am very interested in. During the past month, to explore the differences between kernel approximation methods and neural networks, I am implementing large-scale kernel learning via Keras by the fact that the approximated kernel features can be interpreted as the output of the hidden layer in a shallow neural network. Specifically, the bottom layers of these networks are random basis functions which are not adapted during training. At present, I only focus on Gaussian kernel and Arc-cosine kernel. Specifically, the approximated kernel features above are based on random Fourier features proposed by Ali Rahimi and Benjamin Recht in their [NIPS 2007 paper](http://papers.nips.cc/paper/3182-random-features-for-large-scale-kernel-machines.pdf).
 
-These days, deep learning is very popular and it has achieved great achievements in many applications, like computer vision, natural language processing, medical image analysis, etc. Also, I am very interested in deep learning and master two deep learning frameworks, i.e. Keras and Mxnet. It is interesting to note that our group members have implemented Hinton's **CapsuleNet** with Keras and the main contributor of implementation is Xifeng Guo, one of our group members. If you are interested in the work mentioned above, they are all available on my [Github account](https://github.com/KaikaiZhao).
+These days, deep learning is very popular and it has achieved great achievements in real applications, like computer vision, medical image analysis, natural language processing, etc. Also, I am very interested in deep learning and master two deep learning frameworks, i.e. Keras and Mxnet. It is interesting to note that our group members have implemented Hinton's **CapsuleNet** with Keras and the main contributor of implementation is Xifeng Guo, one of our group members. If you are interested in the work mentioned above, they are all available on my [Github account](https://github.com/KaikaiZhao).
+
+In addition, I am very interested in combining machine learning methods with medical applications. In my view, computer-aided diagnosis using medical images can largely reduce the burdens of clinicians. More and more AI researchers devote themselves to this promising area. I have conducted some researches in medical image analysis and image-guided therapy. Currently, some prediction models outperform doctors in certain diagnoses. I think that applying computer science to intelligent diagnosis is very meaningful. Also, I hope that I could conduct researches like that with all my emotion and heart.
 
 Meanwhile, I have developed a long-term professional objective: the advancement of large-scale machine learning technology. In my view, we should apply our advanced machine learning algorithms to practical applications, which is also our ultimate goal as scientific researchers.
 
@@ -61,7 +63,3 @@ After I received my Bachelor Degree, I worked as an engineer in Longkou Longpeng
 With all sincerity, I hope you can take my application into serious consideration, and I shall appreciate you if you grant me an opportunity for future studies.
 
 Wishing you and yours a happy 2018.
-
-Sincerely yours,
-
-Kaikai Zhao
